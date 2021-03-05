@@ -26,10 +26,12 @@
     flex-direction: column;
     justify-content: space-evenly;
     cursor: pointer;
+    transition: 1s;
 }
 
 .show-menu .hamburguer{
-    right: 1rem;
+    right: 16rem;
+    transition: 1s;
 }
 
 .line{
